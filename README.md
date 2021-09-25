@@ -1,7 +1,7 @@
 [![Test workflow](https://github.com/LibertasConstruction/Libertas/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/LibertasConstruction/Libertas/actions/workflows/python-app.yml)
 
 # Libertas
-This repository contains Python implementations of Libertas [[1]](https://www.link-to-paper.nl) and ZN [[2]](https://link.springer.com/chapter/10.1007/978-3-319-46298-1_18).
+This repository contains Python implementations of Libertas [[1]](https://www.link-to-paper.nl) and Z&N [[2]](https://link.springer.com/chapter/10.1007/978-3-319-46298-1_18).
  
 Libertas is a novel construction for creating dynamic symmetric searchable encryption schemes in the single-user environment that are backward-private and allow for wildcard queries.
 
