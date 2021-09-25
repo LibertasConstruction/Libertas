@@ -1,0 +1,11 @@
+# Project libraries
+pip~=21.1.3
+py~=1.10.0
+setuptools~=57.2.0
+
+# Implementation libraries
+bitarray~=2.2.5
+pycryptodome~=3.10.1
+
+# Test libraries
+pytest~=6.2.4
